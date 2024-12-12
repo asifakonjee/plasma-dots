@@ -1,0 +1,27 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Dotfiles/VoidLinuxInstaller.pdf
+File2[$e]=$HOME/Dotfiles/Gabriel Sanches's Handbook.pdf
+File3[$e]=$HOME/Documents/1-20.pdf
+File4[$e]=$HOME/Downloads/NID.pdf
+File5[$e]=$HOME/Downloads/nid-8697473844.pdf
+File6[$e]=$HOME/Downloads/ME-1-20-ME&FWD-G-377.pdf
+File7[$e]=$HOME/Downloads/Driving License.pdf
+File8[$e]=$HOME/Downloads/294_Notice_merged.pdf
+Name1[$e]=VoidLinuxInstaller.pdf
+Name2[$e]=Gabriel Sanches's Handbook.pdf
+Name3[$e]=1-20.pdf
+Name4[$e]=NID.pdf
+Name5[$e]=nid-8697473844.pdf
+Name6[$e]=ME-1-20-ME&FWD-G-377.pdf
+Name7[$e]=Driving License.pdf
+Name8[$e]=294_Notice_merged.pdf
