@@ -1,0 +1,6 @@
+[Devices]
+connectedDevices=
+
+[Global]
+bluetoothBlocked=true
+launchState=disable
