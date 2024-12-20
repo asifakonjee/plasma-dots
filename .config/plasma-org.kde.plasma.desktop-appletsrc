@@ -20,7 +20,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=/home/asifakonjee/Pictures/Wallpaper/mangekyo-sharingan-8500x4500-11854.png
+Image=/home/asifakonjee/Pictures/Wallpaper/bg/0015.jpg
 
 [Containments][2]
 activityId=
@@ -75,7 +75,7 @@ plugin=org.kde.plasma.shutdownorswitch
 
 [Containments][2][Applets][27][Configuration]
 PreloadWeight=100
-popupHeight=93
+popupHeight=105
 popupWidth=216
 
 [Containments][2][Applets][27][Configuration][ConfigDialog]
@@ -83,6 +83,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][27][Configuration][General]
+icon=/home/asifakonjee/.local/share/icons/Colloid-Dark/apps/scalable/shutdown.svg
 showLockScreen=false
 
 [Containments][2][Applets][3]
@@ -91,8 +92,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][3][Configuration]
 PreloadWeight=100
-popupHeight=555
-popupWidth=831
+popupHeight=591
+popupWidth=832
 
 [Containments][2][Applets][3][Configuration][ConfigDialog]
 DialogHeight=540
@@ -100,7 +101,7 @@ DialogWidth=720
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
-icon=viewnior
+icon=/home/asifakonjee/.local/share/icons/Reversal-dark/apps/scalable/distributor-logo-archlinux.svg
 systemFavorites=suspend\\,hibernate\\,reboot\\,shutdown
 
 [Containments][2][Applets][5]
@@ -108,12 +109,12 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][2][Applets][5][Configuration][ConfigDialog]
-DialogHeight=1012
-DialogWidth=1920
+DialogHeight=540
+DialogWidth=720
 
 [Containments][2][Applets][5][Configuration][General]
 iconSpacing=0
-launchers=applications:systemsettings.desktop,applications:org.kde.konsole.desktop,preferred://filemanager,applications:firefox.desktop,applications:zen-beta.desktop,applications:org.kde.spectacle.desktop,applications:org.kde.kcalc.desktop,applications:org.kde.kate.desktop,file:///usr/share/applications/libreoffice-writer.desktop
+launchers=applications:systemsettings.desktop,applications:org.kde.konsole.desktop,preferred://filemanager,applications:firefox.desktop,applications:local.brave.desktop,applications:Facebook.desktop,applications:ChatGPT.desktop,applications:Github.desktop,applications:Whatsapp.desktop,applications:Whatsapp2.desktop,applications:org.kde.spectacle.desktop,applications:org.kde.kcalc.desktop,applications:org.kde.kate.desktop,file:///usr/share/applications/libreoffice-writer.desktop
 showOnlyCurrentDesktop=false
 
 [Containments][2][Applets][6]
@@ -149,7 +150,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][31][Applets][33][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 popupHeight=400
 popupWidth=560
 
@@ -180,8 +181,8 @@ immutability=1
 lastScreen=0
 location=4
 plugin=org.kde.plasma.private.systemtray
-popupHeight=432
-popupWidth=432
+popupHeight=434
+popupWidth=434
 wallpaperplugin=org.kde.image
 
 [Containments][8][Applets][10]
@@ -196,7 +197,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][11][Configuration]
-PreloadWeight=65
+PreloadWeight=75
 
 [Containments][8][Applets][12]
 immutability=1
@@ -207,7 +208,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][8][Applets][13][Configuration]
-PreloadWeight=70
+PreloadWeight=95
 
 [Containments][8][Applets][14]
 immutability=1
@@ -226,7 +227,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][17][Configuration]
-PreloadWeight=60
+PreloadWeight=75
 
 [Containments][8][Applets][17][Configuration][General]
 migrated=true
@@ -244,7 +245,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][22][Configuration]
-PreloadWeight=41
+PreloadWeight=51
 
 [Containments][8][Applets][23]
 immutability=1
@@ -276,7 +277,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][8][Applets][28][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][8][Applets][29]
 immutability=1

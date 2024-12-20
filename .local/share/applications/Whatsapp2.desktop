@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Whatsapp2 Web App
+Exec=zen-browser https://web.whatsapp.com/
+Icon=/home/asifakonjee/.local/share/icons/Reversal-dark/apps/scalable/whatsapp.svg
+Terminal=false
+Categories=Network;WebBrowser;

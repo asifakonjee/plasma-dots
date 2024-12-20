@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Facebook Web App
+Exec=firefox https://www.facebook.com/
+Icon=/home/asifakonjee/.local/share/icons/Colloid-Dark/apps/scalable/unity-webapps-facebook.svg
+Terminal=false
+Categories=Network;WebBrowser;

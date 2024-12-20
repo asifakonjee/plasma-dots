@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Brave
+Exec=brave --enable-wayland-ime
+Icon=/home/asifakonjee/.local/share/icons/Colloid-Dark/apps/scalable/brave.svg
+Terminal=false
+Categories=Network;WebBrowser;

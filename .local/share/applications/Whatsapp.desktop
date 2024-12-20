@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Whatsapp Web App
+Exec=firefox https://web.whatsapp.com/
+Icon=/home/asifakonjee/.local/share/icons/Colloid-Dark/apps/scalable/whatsapp.svg
+Terminal=false
+Categories=Network;WebBrowser;

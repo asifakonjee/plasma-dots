@@ -39,8 +39,18 @@ wmclass=firefox
 wmclassmatch=1
 
 [General]
-count=8
-rules=f280e040-3a30-4645-b5dd-ddb64913605d,4e7dcd3b-8df2-4538-953d-f58bf8121b05,54f28369-d57b-45aa-989c-fbc983a16c43,b367378d-8fb9-44b3-a9f6-ca07b3b1cfcc,ec903594-3680-4a62-a48d-91172fd949a2,895547a8-a4bc-4b48-88d5-576a2fb06c56,ff795fd8-f586-4cd6-a3b8-a635afc2029b,45f9ea17-d6ca-4439-90dd-aa4280de8454
+count=10
+rules=d7a7c66b-ce10-4cfb-9c1f-06d0942c349a,a0f7d829-0da9-4a15-981b-8254556c07fc,f280e040-3a30-4645-b5dd-ddb64913605d,4e7dcd3b-8df2-4538-953d-f58bf8121b05,54f28369-d57b-45aa-989c-fbc983a16c43,b367378d-8fb9-44b3-a9f6-ca07b3b1cfcc,ec903594-3680-4a62-a48d-91172fd949a2,895547a8-a4bc-4b48-88d5-576a2fb06c56,ff795fd8-f586-4cd6-a3b8-a635afc2029b,45f9ea17-d6ca-4439-90dd-aa4280de8454
+
+[a0f7d829-0da9-4a15-981b-8254556c07fc]
+Description=Window settings for btrfs-assistant
+desktops=ee48262f-775e-4ccd-8e9b-e1b671128b99
+desktopsrule=3
+title=Btrfs Assistant
+types=1
+wmclass=\sbtrfs-assistant
+wmclasscomplete=true
+wmclassmatch=1
 
 [b367378d-8fb9-44b3-a9f6-ca07b3b1cfcc]
 Description=Window settings for libreoffice-writer
@@ -49,6 +59,16 @@ desktopsrule=3
 title=Untitled 1 — LibreOffice Writer
 types=1
 wmclass=soffice.bin libreoffice-writer
+wmclasscomplete=true
+wmclassmatch=1
+
+[d7a7c66b-ce10-4cfb-9c1f-06d0942c349a]
+Description=Window settings for virt-manager
+desktops=6524aa02-7bfb-402a-899b-c32ec0edfbc6
+desktopsrule=3
+title=Virtual Machine Manager
+types=1
+wmclass=python3.12 virt-manager
 wmclasscomplete=true
 wmclassmatch=1
 

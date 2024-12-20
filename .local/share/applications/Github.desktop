@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Github Web App
+Exec=firefox https://www.github.com/asifakonjee
+Icon=/home/asifakonjee/.local/share/icons/Reversal-dark/apps/scalable/github-desktop.svg
+Terminal=false
+Categories=Network;WebBrowser;
