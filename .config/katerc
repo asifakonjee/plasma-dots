@@ -15,10 +15,12 @@ Allow Tab Scrolling=true
 Auto Hide Tabs=false
 Close After Last=false
 Close documents with window=true
+Cycle To First Tab=true
 Days Meta Infos=30
 Diagnostics Limit=12000
 Diff Show Style=0
 Elide Tab Text=false
+Enable Context ToolView=false
 Expand Tabs=false
 Icon size for left and right sidebar buttons=32
 Modified Notification=false
@@ -125,7 +127,7 @@ Word Completion Remove Tail=true
 
 [KTextEditor::Search]
 Replace History=white
-Search History=green
+Search History=background,f,networkmanager,green
 
 [Konsole]
 AutoSyncronizeMode=0
@@ -140,7 +142,7 @@ SetEditor=false
 ToolBarsMovable=Disabled
 
 [filebrowser]
-toolbar actions=show hidden,back,forward,up,home,configure
+toolbar actions=home,up,back,forward,show hidden,configure
 
 [filetree]
 editShade=32,81,107
