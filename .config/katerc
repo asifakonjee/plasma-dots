@@ -60,7 +60,7 @@ Color Theme=VSCodium Custom
 Line Height Multiplier=1
 Show Indentation Lines=false
 Show Whole Bracket Expression=false
-Text Font=Monaco Nerd Font Mono,15,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Text Font=CaskaydiaCove Nerd Font,15,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 Text Font Features=
 Word Wrap Marker=false
 
@@ -127,7 +127,7 @@ Word Completion Remove Tail=true
 
 [KTextEditor::Search]
 Replace History=white
-Search History=background,f,networkmanager,green
+Search History=intel,background,f,networkmanager,green
 
 [Konsole]
 AutoSyncronizeMode=0
